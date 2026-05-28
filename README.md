@@ -64,8 +64,8 @@ Bạn có thể thiết lập biến môi trường trực tiếp từ terminal 
 
 * **Windows (PowerShell):**
   ```powershell
-  $env:OPENAI_API_KEY="sk-proj-your-openai-key-here"
-  $env:GEMINI_API_KEY="AIzaSy-your-gemini-key-here"
+  $env:OPENAI_API_KEY=""
+  $env:GEMINI_API_KEY=""
   ```
 
 * **Windows (CMD):**
@@ -76,8 +76,8 @@ Bạn có thể thiết lập biến môi trường trực tiếp từ terminal 
 
 * **macOS/Linux (Terminal):**
   ```bash
-  export OPENAI_API_KEY="sk-proj-your-openai-key-here"
-  export GEMINI_API_KEY="AIzaSy-your-gemini-key-here"
+  export OPENAI_API_KEY=""
+  export GEMINI_API_KEY=""
   ```
 
 > [!TIP]
